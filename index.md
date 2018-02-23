@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Regras do grupo SouJava Campinas JUG no WhatsApp
+Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos tais como: Linguagem Java, Tecnologia Java, Frameworks Java, meetups do SouJava Campinas, eventos relacionados a tecnologia discutida, projetos opensource.
+E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assim que possível.
 
-You can use the [editor on GitHub](https://github.com/soujava/codigo-de-conduta-grupo-whatsapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**REGRAS**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+01. O envio de fotos, vídeos, Gif's e textos devem ser dosados com bom senso e de preferência relacionados ao tema do grupo.
 
-### Markdown
+02. Respeite e seja objetivo em perguntas para outras pessoas do grupo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+03. Vamos evitar assuntos polêmicos como Política e Religião, assim evitamos desavenças  entre os membros.
 
-```markdown
-Syntax highlighted code block
+04. É proibido divulgar Propagandas e Links de outros Grupos sem autorização dos Administradores.
 
-# Header 1
-## Header 2
-### Header 3
+05. Não serão aceitos: Palavrões, Ofensas, Fotos ou Vídeos Pornográficos - isto resulta em Remoção Imediata!
 
-- Bulleted
-- List
+06. Não tire sarro, e nem trate Mal seu colega de grupo, seja Bem Educado Respeitando Opiniões que são  Diferentes das suas.
 
-1. Numbered
-2. List
+07. Não vamos tolerar qualquer tipo de Falta de Respeito.
 
-**Bold** and _Italic_ and `Code` text
+Os Administradores darão Uma Advertência e na Segunda vez a pessoa será Removida/Banida 
 
-[Link](url) and ![Image](src)
-```
+#Administradores do grupo SouJava Campinas JUG
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contato
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soujava/codigo-de-conduta-grupo-whatsapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Grupo SouJava Campinas JUG no WhatsApp: https://chat.whatsapp.com/4gVxIkyq6Ul8yJxIsDOYQV
