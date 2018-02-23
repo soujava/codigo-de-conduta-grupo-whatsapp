@@ -1,4 +1,4 @@
-## Regras do grupo SouJava Campinas JUG no WhatsApp
+## Regras de grupo WhatsApp do SouJava
 Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos tais como: Linguagem Java, Tecnologia Java, Frameworks Java, meetups do SouJava Campinas, eventos relacionados a tecnologia discutida, projetos opensource.
 E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assim que possível.
 
