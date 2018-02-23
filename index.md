@@ -18,9 +18,9 @@ E para nos conhecermos melhor, os novos membros podem e devem se Apresentar assi
 
 07. Não vamos tolerar qualquer tipo de Falta de Respeito.
 
-Os Administradores darão Uma Advertência e na Segunda vez a pessoa será Removida/Banida 
+Os Administradores darão uma advertência e na segunda vez a pessoa será Removida/Banida 
 
-#Administradores do grupo SouJava Campinas JUG
+#Administradores do grupo no WhatsApp do SouJava Campinas JUG
 
 ### Contato
 
